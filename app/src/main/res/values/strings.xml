@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">parcial02</string>
+    <string name="facebook_app_id">207074174178296</string>
+    <string name="fb_login_protocol_scheme">fb207074174178296</string>
+</resources>
